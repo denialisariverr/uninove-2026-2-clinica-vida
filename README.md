@@ -11,4 +11,5 @@ aplicação completa entregue na Aula 20. O enunciado completo do case está em
 - Nome completo: Gisele Marques Dias
 - RA: 925111100
 - Turma: quinta
+- O que espero aprender:
 - O que espero aprender: 
